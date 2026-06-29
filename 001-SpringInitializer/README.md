@@ -2,7 +2,7 @@
 
 A basic Spring Boot application generated with [Spring Initializr](https://start.spring.io/) using its default settings. First step of my Spring Boot learning journey.
 
-##  Stack
+##  Stack 
 - Java 26
 - Spring Boot 4.x
 - Maven
