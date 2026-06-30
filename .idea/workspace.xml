@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0bd64c89-d522-4995-ba65-3341d374c99d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ArturoG07&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ArturoG07/Spring-Boot-RoadMap.git&quot;,
+    &quot;accountId&quot;: &quot;60b4adcc-e047-435c-be34-5e8f9b18c9d6&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3Fc45NO0QgPfoj6ludso4puoyp9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/artur/IdeaProjects/Spring-Boot-RoadMap/004-RequestParam",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\artur\IdeaProjects\Spring-Boot-RoadMap\004-RequestParam" />
+      <recent name="C:\Users\artur\IdeaProjects\Spring-Boot-RoadMap\003-PathVariable" />
+      <recent name="C:\Users\artur\IdeaProjects\Spring-Boot-RoadMap\002-HelloWorld" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\artur\IdeaProjects\Spring-Boot-RoadMap\002-HelloWorld" />
+      <recent name="C:\Users\artur\IdeaProjects\Spring-Boot-RoadMap" />
+      <recent name="C:\Users\artur\IdeaProjects\Spring-Boot-RoadMap\001-SpringInitializer" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bd64c89-d522-4995-ba65-3341d374c99d" name="Changes" comment="" />
+      <created>1782360839486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782360839486</updated>
+      <workItem from="1782360840599" duration="692000" />
+      <workItem from="1782680104489" duration="126000" />
+      <workItem from="1782764407414" duration="1067000" />
+      <workItem from="1782765523452" duration="60000" />
+      <workItem from="1782766222159" duration="8000" />
+      <workItem from="1782766325656" duration="1070000" />
+      <workItem from="1782768574115" duration="580000" />
+      <workItem from="1782769203294" duration="3000" />
+      <workItem from="1782817650870" duration="1289000" />
+    </task>
+    <task id="LOCAL-00001" summary="Proyect creation">
+      <option name="closed" value="true" />
+      <created>1782360913148</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1782360913149</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Hello World">
+      <option name="closed" value="true" />
+      <created>1782766383434</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1782766383434</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Path variables proyect">
+      <option name="closed" value="true" />
+      <created>1782768927922</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1782768927922</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Spring initializer">
+      <option name="closed" value="true" />
+      <created>1782768993267</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1782768993267</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Request Param Application">
+      <option name="closed" value="true" />
+      <created>1782817843123</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1782817843123</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Proyect creation" />
+    <MESSAGE value="Hello World" />
+    <MESSAGE value="Path variables proyect" />
+    <MESSAGE value="Spring initializer" />
+    <MESSAGE value="Request Param Application" />
+    <option name="LAST_COMMIT_MESSAGE" value="Request Param Application" />
+  </component>
+</project>
