@@ -5,14 +5,15 @@ Each folder contains a self-contained project covering a specific concept or fea
 
 ## 📚 Projects
 
-| # | Project            | Description                                                    |
-|---|--------------------|----------------------------------------------------------------|
+| #   | Project            | Description                                                    |
+|-----|--------------------|----------------------------------------------------------------|
 | 001 | Spring Initializer | Default Spring Boot project generated with Spring Initializr   |
-| 002 | Hello World        | REST Controller with `@GetMapping` that returns "HelloWorld"      |
+| 002 | Hello World        | REST Controller with `@GetMapping` that returns "HelloWorld"   |
 | 003 | Path Variable      | REST Controller with `@GetMapping` and `@PathVariable`         |
 | 004 | RequestParam       | REST Controller with `@GetMapping` and `@RequestParam`         |
 | 005 | PostMapping        | REST Controller with `@PostMapping` and `@RequestBody`         |
 | 006 | Response           | REST Controller returning `@ResponseBody` and `ResponseEntity` |
+| 007 | Hospital           | REST Controller that Applies all learned concepts              |
 
 ## 🛠 Stack
 - Java 26
