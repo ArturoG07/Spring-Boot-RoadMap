@@ -14,6 +14,7 @@ Each folder contains a self-contained project covering a specific concept or fea
 | 005 | PostMapping        | REST Controller with `@PostMapping` and `@RequestBody`         |
 | 006 | Response           | REST Controller returning `@ResponseBody` and `ResponseEntity` |
 | 007 | Hospital           | REST Controller that Applies all learned concepts              |
+| 008 | DTO Pattern        | REST Controller that returns an example of a DTO               |
 
 ## 🛠 Stack
 - Java 26
