@@ -16,6 +16,7 @@ Each folder contains a self-contained project covering a specific concept or fea
 | 007 | Hospital                | REST Controller that Applies all learned concepts              |
 | 008 | DTO Pattern             | REST Controller that returns an example of a DTO               |
 | 009 | MultiLayer Architecture | Empty proyect with the MultiLayer standard packages            |
+| 010 | Repository & Service    | Proyect with a Repository and a Service class                  |
 
 ## 🛠 Stack
 - Java 26
