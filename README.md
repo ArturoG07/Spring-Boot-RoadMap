@@ -17,6 +17,7 @@ Each folder contains a self-contained project covering a specific concept or fea
 | 008 | DTO Pattern             | REST Controller that returns an example of a DTO               |
 | 009 | MultiLayer Architecture | Empty proyect with the MultiLayer standard packages            |
 | 010 | Repository & Service    | Proyect with a Repository and a Service class                  |
+| 011 | Dependencies Injection  | Proyect with 3 different injection methods                     |
 
 ## 🛠 Stack
 - Java 26
