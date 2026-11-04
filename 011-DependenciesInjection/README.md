@@ -1,4 +1,4 @@
-# 010 Repository & Service
+# 011 Dependencies Injection
 
 Spring Boot application with 3 different dependencies injection methods
 
