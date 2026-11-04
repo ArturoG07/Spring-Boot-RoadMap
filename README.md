@@ -18,6 +18,7 @@ Each folder contains a self-contained project covering a specific concept or fea
 | 009 | MultiLayer Architecture | Empty proyect with the MultiLayer standard packages            |
 | 010 | Repository & Service    | Proyect with a Repository and a Service class                  |
 | 011 | Dependencies Injection  | Proyect with 3 different injection methods                     |
+| 012 | Grades Average          | Average grades exercise                                        |
 
 ## 🛠 Stack
 - Java 26
