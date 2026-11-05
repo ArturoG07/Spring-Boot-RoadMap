@@ -19,11 +19,13 @@ Each folder contains a self-contained project covering a specific concept or fea
 | 010 | Repository & Service    | Proyect with a Repository and a Service class                  |
 | 011 | Dependencies Injection  | Proyect with 3 different injection methods                     |
 | 012 | Grades Average          | Average grades exercise                                        |
+| 013 | JPA Hibernate           | JPA and Hibernate integration on an empty project              |
 
 ## 🛠 Stack
-- Java 26
+- Java 25
 - Spring Boot 4.x
 - Maven
+- MySQL 8.x
 - Postman (testing)
 
 ## 👤 Author
