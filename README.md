@@ -20,6 +20,7 @@ Each folder contains a self-contained project covering a specific concept or fea
 | 011 | Dependencies Injection  | Proyect with 3 different injection methods                     |
 | 012 | Grades Average          | Average grades exercise                                        |
 | 013 | JPA Hibernate           | JPA and Hibernate integration on an empty project              |
+| 014 | CRUD                    | Complete CRUD implementation with Spring Boot and JPA          |
 
 ## 🛠 Stack
 - Java 25
