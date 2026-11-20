@@ -26,7 +26,7 @@ Each folder contains a self-contained project covering a specific concept or fea
 | 017 | Thymeleaf-HelloWorld    | Thymeleaf hello world                                          |
 | 018 | Thymeleaf-Parameters    | Thymeleaf project with a name parameter                        |
 | 019 | Thymeleaf-Attributes    | Thymeleaf form that shows results in a template                |
-| 019 | Thymeleaf-Forms         | Thymeleaf Form with an object instead of parameters            |
+| 020 | Thymeleaf-Forms         | Thymeleaf Form with an object instead of parameters            |
 
 
 ## 🛠 Stack
