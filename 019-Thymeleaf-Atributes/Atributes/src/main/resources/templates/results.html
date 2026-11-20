@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <p th:text="'Your name is: ' + ${name}"></p>
+    <p th:text="'Your age is: ' + ${age}"></p>
+    <p th:text="'Your new email is: ' + ${email}"></p>
+    <p th:if="${isOver18}">
+        You are over 18 years old
+    </p>
+    <p th:unless="${isOver18}">
+        You are not over 18 years old
+    </p>
+</body>
+</html>
