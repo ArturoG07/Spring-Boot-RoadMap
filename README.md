@@ -24,6 +24,7 @@ Each folder contains a self-contained project covering a specific concept or fea
 | 015 | JPA Relations           | JPA DataBase relationships annotations                         | 
 | 016 | VetClinic               | Exercise with 2 classes, CRUD, and ManyToOne relations         |
 | 017 | Thymeleaf-HelloWorld    | Thymeleaf hello world                                          |
+| 018 | Thymeleaf-Parameters    | Thymeleaf project with a name parameter                        |
 
 ## 🛠 Stack
 - Java 25
