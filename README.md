@@ -22,7 +22,8 @@ Each folder contains a self-contained project covering a specific concept or fea
 | 013 | JPA Hibernate           | JPA and Hibernate integration on an empty project              |
 | 014 | CRUD                    | Complete CRUD implementation with Spring Boot and JPA          |
 | 015 | JPA Relations           | JPA DataBase relationships annotations                         | 
-| 015 | VetClinic               | Exercise with 2 classes, CRUD, and ManyToOne relations         |
+| 016 | VetClinic               | Exercise with 2 classes, CRUD, and ManyToOne relations         |
+| 017 | Thymeleaf-HelloWorld    | Thymeleaf hello world                                          |
 
 ## 🛠 Stack
 - Java 25
