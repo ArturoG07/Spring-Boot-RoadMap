@@ -33,6 +33,7 @@ Each folder contains a self-contained project covering a specific concept or fea
 - Maven
 - MySQL 8.x
 - Postman (testing)
+- Thymeleaf
 
 ## 👤 Author
 **ArturoG07** · [GitHub](https://github.com/ArturoG07)
