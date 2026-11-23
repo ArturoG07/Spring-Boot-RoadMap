@@ -29,6 +29,7 @@ Each folder contains a self-contained project covering a specific concept or fea
 | 020 | Thymeleaf-Forms         | Thymeleaf Form with an object instead of parameters            |
 | 021 | Thymeleaf-Lists         | Thymeleaf List proccesing with th:each                         |
 | 022 | Thymeleaf-Fragments     | Thymeleaf fragments ussage to avoid repeating code             |
+| 023 | Thymeleaf-Session       | Httpsession used to process login                              |
 
 
 ## 🛠 Stack
