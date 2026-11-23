@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Fragments</title>
+</head>
+<body>
+
+<p>This is a fragment with th:replace</p>
+<div th:replace="~{fragments::header}"></div>
+
+<p>This is a fragment with th:include</p>
+<div th:include="~{fragments::header}"></div>
+
+<p>This is a fragment with th:insert</p>
+<div th:insert="~{fragments::header}"></div>
+
+</body>
+</html>
