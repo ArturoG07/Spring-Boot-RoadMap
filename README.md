@@ -30,6 +30,7 @@ Each folder contains a self-contained project covering a specific concept or fea
 | 021 | Thymeleaf-Lists         | Thymeleaf List proccesing with th:each                         |
 | 022 | Thymeleaf-Fragments     | Thymeleaf fragments ussage to avoid repeating code             |
 | 023 | Thymeleaf-Session       | Httpsession used to process login                              |
+| 024 | FinalProyect            | Final integrative Spring boot proyect                          |
 
 
 ## 🛠 Stack
