@@ -45,3 +45,7 @@ Each folder contains a self-contained project covering a specific concept or fea
 
 ## 👤 Author
 **ArturoG07** · [GitHub](https://github.com/ArturoG07)
+
+## Certificate
+Course completed: *Desarrollo de APIs en Java con Spring Boot* – TodoCode Academy.
+[View certificate](https://todocodeacademy.com/certificate/spring-boot-kh6/)
