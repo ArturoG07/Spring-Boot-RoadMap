@@ -31,6 +31,7 @@ Each folder contains a self-contained project covering a specific concept or fea
 | 022 | Thymeleaf-Fragments     | Thymeleaf fragments ussage to avoid repeating code             |
 | 023 | Thymeleaf-Session       | Httpsession used to process login                              |
 | 024 | FinalProyect            | Final integrative Spring boot proyect                          |
+| 025 | Docker                  | Final proyect deployed with docker                             |
 
 
 ## 🛠 Stack
@@ -40,6 +41,7 @@ Each folder contains a self-contained project covering a specific concept or fea
 - MySQL 8.x
 - Postman (testing)
 - Thymeleaf
+- Docker
 
 ## 👤 Author
 **ArturoG07** · [GitHub](https://github.com/ArturoG07)
